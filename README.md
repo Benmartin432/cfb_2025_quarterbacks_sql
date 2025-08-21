@@ -1,2 +1,2 @@
 # cfb_2025_quarterbacks_sql
-Used SQL to look deeper into the data to find hidden gem quarterbacks for the 2025 college football season.
+Used SQL to look deeper into the data to find hidden gem quarterbacks for the 2025 college football season. The data is taken from ESPN. I made the tables myself and then imported them into MYSQL to run queries to determine which quarterbacks to watch for in the 2025 season. I sorted over 200+ quarterbacks to find the hidden gems and 2nd chance players to look out for when watching for who has the potential to be great, based on analytics. It includes over 300+ lines of comprehensive SQL code and an in-depth data analysis, fully written and completed by me.
